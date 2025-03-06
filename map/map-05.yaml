@@ -1,0 +1,5 @@
+width: 400
+height: 400
+block_size: 100
+start_position: [0, 0]
+target_position: [200, 200]

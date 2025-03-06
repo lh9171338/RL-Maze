@@ -1,0 +1,5 @@
+width: 660
+height: 600
+block_size: 20
+start_position: [20, 20]
+target_position: [320, 360]
